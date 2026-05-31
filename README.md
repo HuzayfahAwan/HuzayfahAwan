@@ -34,13 +34,9 @@ I'm a Computer Science student at Queens College and an **NSF S-STEM Scholar** w
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 
-**Frameworks & Tools**
+**Tools & Platforms**
 
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
@@ -54,15 +50,18 @@ I'm a Computer Science student at Queens College and an **NSF S-STEM Scholar** w
 
 ---
 
-### 📌 Featured Projects
+### 📌 Projects
 
 | Project | Stack | Live |
 |---|---|---|
 | [Crazy Copper Sneakers](https://huzayfahawan.github.io/Crazy-Coppers-Sneaker-Website/) | HTML · CSS · JS | [↗](https://huzayfahawan.github.io/Crazy-Coppers-Sneaker-Website/) |
+| [NYC Middle Eastern Food Spots](https://huzayfahawan.github.io/NYC-Middle-Eastern-Food-Spots/) | HTML · CSS · JS | [↗](https://huzayfahawan.github.io/NYC-Middle-Eastern-Food-Spots/) |
 | [Lexicoin Noir: The Hangman](https://huzayfahawan.github.io/Lexicon-Noir-The-Hangman/) | HTML · CSS · JS | [↗](https://huzayfahawan.github.io/Lexicon-Noir-The-Hangman/) |
-| [GifFinder](https://huzayfahawan.github.io/GifFinder/) | HTML · CSS · JS · Giphy API | [↗](https://huzayfahawan.github.io/GifFinder/) |
-| [Jeopardy](https://huzayfahawan.github.io/Jeopardy/) | HTML · CSS · JS | [↗](https://huzayfahawan.github.io/Jeopardy/) |
+| [The Smesh Borger Joint](https://huzayfahawan.github.io/The-Smesh-Borger-Joint/) | HTML · CSS · JS | [↗](https://huzayfahawan.github.io/The-Smesh-Borger-Joint/) |
 | [Language Grid Guessing Game](https://huzayfahawan.github.io/Language-Grid-Guessing-Game/) | HTML · CSS · JS | [↗](https://huzayfahawan.github.io/Language-Grid-Guessing-Game/) |
+| [Personality Quiz Game](https://huzayfahawan.github.io/Personality-Quiz-Game/) | HTML · CSS · JS | [↗](https://huzayfahawan.github.io/Personality-Quiz-Game/) |
+| [Jeopardy](https://huzayfahawan.github.io/Jeopardy/) | HTML · CSS · JS | [↗](https://huzayfahawan.github.io/Jeopardy/) |
+| [GifFinder](https://huzayfahawan.github.io/GifFinder/) | HTML · CSS · JS · Giphy API | [↗](https://huzayfahawan.github.io/GifFinder/) |
 
 ---
 
