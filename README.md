@@ -16,7 +16,7 @@
 
 I'm a Computer Science student at Queens College and an **NSF S-STEM Scholar** who sits at the intersection of software engineering, IT operations, and community leadership. From pair programming with Google engineers to managing $10,000+ fundraising campaigns, I bring a rare breadth of experience to everything I build.
 
-- 🎓 **B.S. Computer Science** — Queens College, CUNY (2022 – 2028)
+- 🎓 **Bachelors in Computer Science** — Queens College, CUNY (2022 – 2027)
 - 💻 **CUNY Tech Prep Graduate** — Full-Stack Web Development
 - 🔵 **Google G-SWEP Mentee** — 20 weeks of 1:1 mentorship with a Google SWE (×2)
 - 🏆 **Bloomberg BPuzzled Runner-Up** — 2nd place across multi-college teams
