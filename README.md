@@ -54,15 +54,15 @@ I'm a Computer Science student at Queens College and an **NSF S-STEM Scholar** w
 
 | Project | Stack | Live |
 |---|---|---|
-| [Crazy Copper Sneakers](https://huzayfahawan.github.io/Crazy-Coppers-Sneaker-Website/) | HTML · CSS · JS | [↗](https://huzayfahawan.github.io/Crazy-Coppers-Sneaker-Website/) |
-| [NYC Middle Eastern Food Spots](https://huzayfahawan.github.io/NYC-Middle-Eastern-Food-Spots/) | HTML · CSS · JS | [↗](https://huzayfahawan.github.io/NYC-Middle-Eastern-Food-Spots/) |
-| [Lexicoin Noir: The Hangman](https://huzayfahawan.github.io/Lexicon-Noir-The-Hangman/) | HTML · CSS · JS | [↗](https://huzayfahawan.github.io/Lexicon-Noir-The-Hangman/) |
-| [The Smesh Borger Joint](https://huzayfahawan.github.io/The-Smesh-Borger-Joint/) | HTML · CSS · JS | [↗](https://huzayfahawan.github.io/The-Smesh-Borger-Joint/) |
 | [Language Grid Guessing Game](https://huzayfahawan.github.io/Language-Grid-Guessing-Game/) | HTML · CSS · JS | [↗](https://huzayfahawan.github.io/Language-Grid-Guessing-Game/) |
 | [Personality Quiz Game](https://huzayfahawan.github.io/Personality-Quiz-Game/) | HTML · CSS · JS | [↗](https://huzayfahawan.github.io/Personality-Quiz-Game/) |
-| [Jeopardy](https://huzayfahawan.github.io/Jeopardy/) | HTML · CSS · JS | [↗](https://huzayfahawan.github.io/Jeopardy/) |
+| [Jeopardy](https://huzayfahawan.github.io/Jeopardy/) | HTML · CSS · JS · Jeopardy API | [↗](https://huzayfahawan.github.io/Jeopardy/) |
 | [GifFinder](https://huzayfahawan.github.io/GifFinder/) | HTML · CSS · JS · Giphy API | [↗](https://huzayfahawan.github.io/GifFinder/) |
 | [CUNY 311 App](https://github.com/HuzayfahAwan/cuny-311-app) | React · TypeScript · Tailwind · Node.js · Express | [↗](https://cuny-311-app-sigma.vercel.app) |
+| [The Smesh Borger Joint](https://huzayfahawan.github.io/The-Smesh-Borger-Joint/) | HTML · CSS · JS | [↗](https://huzayfahawan.github.io/The-Smesh-Borger-Joint/) |
+| [Crazy Copper Sneakers](https://huzayfahawan.github.io/Crazy-Coppers-Sneaker-Website/) | HTML · CSS · JS | [↗](https://huzayfahawan.github.io/Crazy-Coppers-Sneaker-Website/) |
+| [NYC Middle Eastern Food Spots](https://huzayfahawan.github.io/NYC-Middle-Eastern-Food-Spots/) | HTML · CSS · JS | [↗](https://huzayfahawan.github.io/NYC-Middle-Eastern-Food-Spots/) |
+| [Lexicoin Noir: The Hangman](https://huzayfahawan.github.io/Lexicon-Noir-The-Hangman/) | HTML · CSS · JS · Random Word API | [↗](https://huzayfahawan.github.io/Lexicon-Noir-The-Hangman/) |
 
 ---
 
