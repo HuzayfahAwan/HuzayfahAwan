@@ -62,7 +62,7 @@ I'm a Computer Science student at Queens College and an **NSF S-STEM Scholar** w
 | [Personality Quiz Game](https://huzayfahawan.github.io/Personality-Quiz-Game/) | HTML · CSS · JS | [↗](https://huzayfahawan.github.io/Personality-Quiz-Game/) |
 | [Jeopardy](https://huzayfahawan.github.io/Jeopardy/) | HTML · CSS · JS | [↗](https://huzayfahawan.github.io/Jeopardy/) |
 | [GifFinder](https://huzayfahawan.github.io/GifFinder/) | HTML · CSS · JS · Giphy API | [↗](https://huzayfahawan.github.io/GifFinder/) |
-| [GitHub Profile README](https://github.com/HuzayfahAwan/HuzayfahAwan) | Markdown | [↗](https://github.com/HuzayfahAwan) |
+| [CUNY 311 App](https://github.com/HuzayfahAwan/cuny-311-app) | React · TypeScript · Tailwind · Node.js · Express | [↗](https://cuny-311-app-sigma.vercel.app) |
 
 ---
 
