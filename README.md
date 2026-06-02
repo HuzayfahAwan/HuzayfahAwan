@@ -70,9 +70,10 @@ I'm a Computer Science student at Queens College and an **NSF S-STEM Scholar** w
 
 <div align="center">
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=HuzayfahAwan&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0a0d12&title_color=3dd6c8&icon_color=3dd6c8&text_color=e8eaed)](https://github.com/HuzayfahAwan)
+[![Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=HuzayfahAwan&theme=tokyonight)](https://github.com/HuzayfahAwan)
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=HuzayfahAwan&layout=compact&theme=tokyonight&hide_border=true&bg_color=0a0d12&title_color=3dd6c8&text_color=e8eaed)](https://github.com/HuzayfahAwan)
+[![Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=HuzayfahAwan&theme=tokyonight)](https://github.com/HuzayfahAwan)
+[![Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=HuzayfahAwan&theme=tokyonight)](https://github.com/HuzayfahAwan)
 
 </div>
 
